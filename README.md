@@ -65,4 +65,4 @@ These complexity analyses provide an overview of how the application's performan
 
 The Text-to-Speech (TTS) application features an intuitive and user-friendly graphical user interface (GUI) designed to enhance the user experience. With a sleek design, the GUI allows users to effortlessly enter text, select voice options, and control speech speed. The application's simplicity ensures that users, whether tech-savvy or newcomers, can easily navigate and utilize its powerful text-to-speech capabilities. Additionally, clear instructions for each functionality are provided within the GUI, making the application accessible to a wide range of users.
 
-![TEXT TO SPEECH](https://ibb.co/MBYMCtN)
+[![TEXT TO SPEECH](https://i.postimg.cc/CKHBY3Ch/Ekran-g-r-nt-s-2023-12-29-223825.png)](https://postimg.cc/PLJrQFF9)
